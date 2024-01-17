@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'AzureSiteCD'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8ADFA6DEB2B34ED3A3173F749BDF0662 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_04C594C440DC47DA843AAE9E769E0503 }}
           package: .
